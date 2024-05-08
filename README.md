@@ -14,8 +14,6 @@ To write a program to predict the profit of a city using the linear regression m
  
 ## Program:
 ```
-/*
-
 Program to implement the linear regression using gradient descent.
 Developed by:Mourise jane
 RegisterNumber:212222230085
@@ -49,8 +47,6 @@ prediction=prediction.reshape(-1,1)
 pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
-
-*/
 ```
 
 
